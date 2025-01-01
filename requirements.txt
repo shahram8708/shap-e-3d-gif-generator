@@ -1,0 +1,7 @@
+torch
+torchvision
+torchaudio
+diffusers
+gradio
+pillow
+imageio[ffmpeg]
